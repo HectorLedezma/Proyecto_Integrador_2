@@ -10,5 +10,4 @@ public class Proyecto_Programacion_Aplicaciones {
         Random elec = new Random();
         System.out.println(lenguaje[elec.nextInt(lenguaje.length)]);
     }
-    
 }
