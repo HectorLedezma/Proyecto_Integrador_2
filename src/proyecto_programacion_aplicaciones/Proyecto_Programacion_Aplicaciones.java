@@ -9,8 +9,6 @@ public class Proyecto_Programacion_Aplicaciones {
         //XD
         Random elec = new Random();
         System.out.println(lenguaje[elec.nextInt(lenguaje.length)]);
-
-    
     }
     
 }
